@@ -19,10 +19,10 @@ The Voting System Application is a Spring Boot project designed to manage voter 
 - **Maven**: For managing project dependencies and building the application.
 
 ![Application Screenshot](images/adminDashboard.png)
-(images/adminLogin.png)
-(images/adminRegistration.png)
-(images/EditVoter.png)
-(images/home.png)
-(images/voterRegistration.png)
+![Application Screenshot](images/adminLogin.png)
+![Application Screenshot](images/adminRegistration.png)
+![Application Screenshot](images/EditVoter.png)
+![Application Screenshot](images/home.png)
+![Application Screenshot](images/voterRegistration.png)
 
 
